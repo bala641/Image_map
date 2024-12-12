@@ -1,5 +1,5 @@
-# Ex04 Places Around Me
-# Date: 11/12/2024
+## Places Around Me
+## Date: 11/12/24
 
 ## AIM:
 To develop a website to display details about the places around my house.
@@ -167,7 +167,4 @@ theatre.html:
 
 
 ## Result:
-
-
-
-The program for implementing image maps using HTML is executed successfully.
+image-maps has been created succesfully
